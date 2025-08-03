@@ -1,4 +1,4 @@
-# Gemini Code Assistant
+# Mira Code Assistant
 
 This project is a command-line AI agent powered by the Gemini API, designed to help you with your code. It can understand your code, help you fix bugs, and act as a miniature version of a code assistant like Claude Code.
 
